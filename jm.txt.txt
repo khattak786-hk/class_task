@@ -1,4 +1,8 @@
 myself Muhammad Aspiring software developer | Passionate about problem-solving,
  DevOps, and open-source | Learning, building, and sharing projects on GitHub
 
+<<<<<<< HEAD
  Comment Added by Saddam Gulzar.
+=======
+ hii muhamad
+>>>>>>> 22d110b833f7022265f831bf9e576f5e4e4edcd7
