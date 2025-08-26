@@ -2,5 +2,11 @@ my name is hamza
 i am 25 years old 
 recently graduated
 i am from kohat
+<<<<<<< HEAD
+Comment Added by Saddam Gulzar.
+=======
 
 hiii hamza
+>>>>>>> 22d110b833f7022265f831bf9e576f5e4e4edcd7
+
+commit by Muhammad...
