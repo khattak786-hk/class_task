@@ -1,12 +1,4 @@
 This is my file
-<<<<<<< HEAD
 Comment Added by Saddam Gulzar.
-=======
-
-<<<<<<< HEAD
->>>>>>> 22d110b833f7022265f831bf9e576f5e4e4edcd7
-=======
 bye rabia
->>>>>>> ba5a28ad637c99b7e7dd070e7527e7f6eba7fcd5
-
 commit by muhammad..
